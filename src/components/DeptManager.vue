@@ -5,7 +5,7 @@
       style="width: 100%">
       <el-table-column
         prop="deptno"
-        label="编号号"
+        label="编号"
         width="150">
       </el-table-column>
       <el-table-column
